@@ -1,3 +1,5 @@
+# Gavin Binkley
+# 6/14/2026
 class Cashier:
     def __init__(self):
         pass

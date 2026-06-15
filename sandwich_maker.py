@@ -1,3 +1,5 @@
+# Gavin Binkley
+# 6/14/2026
 class SandwichMaker:
 
     def __init__(self, machine_resources):
